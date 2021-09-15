@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Gatsby minimal starter --> after finishing the first tutorial I hope to bring real difference to the site :smile:
 </h1>
 
 ## 🚀 Quick start
@@ -27,6 +27,11 @@
     npm run develop
     ```
 
+  If there is an issue with the error "There was a problem loading the local develop command. Gatsby may not be installed in your site's "node_modules" directory." try running the following command in the project folder:
+
+   ```shell
+    npm install --force 
+    ```
 3.  **Open the code and start customizing!**
 
     Your site is now running at http://localhost:8000!
